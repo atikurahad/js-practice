@@ -38,3 +38,7 @@ console.log(sum)
   return m*m;
  })
  console.log(multiply)
+
+const handleClick =  ()=>{
+  console.log(" Clicked")
+}

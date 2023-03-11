@@ -42,3 +42,8 @@ console.log(sum)
 const handleClick =  ()=>{
   console.log(" Clicked")
 }
+
+function myFunction() {
+  let a = 4;
+  return a * a;
+}

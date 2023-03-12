@@ -40,7 +40,7 @@ console.log(sum)
  console.log(multiply)
 
 const handleClick =  ()=>{
-  console.log(" Clicked")
+  console.log(" Clicked");
 }
 
 function myFunction() {
